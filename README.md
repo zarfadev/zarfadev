@@ -11,7 +11,7 @@ I'm passionate about building communities and innovating in Software, Cheats, Di
 
 ## 🌐 Other Platforms
 
-[![Replit Logo](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@zarfalaxd)
+[![Replit Logo](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@zarfaladev)
 
 Join our Discord community, and let's explore endless possibilities together!
 
