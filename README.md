@@ -25,9 +25,7 @@ You can reach me via:
 
 Feel free to contact me with exciting ideas, collaboration proposals, or just to chat. Looking forward to connecting with you!
 
-<img src="https://raw.githubusercontent.com/zarfalaxd/zarfalaxd/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/zarfalaxd/zarfalaxd/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 [zarfalaxd/zarfalaxd] is a special repository as its `README.md` (this file) appears on your GitHub profile. Feel free to explore my projects and contributions! 😃
