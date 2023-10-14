@@ -27,5 +27,7 @@ Feel free to contact me with exciting ideas, collaboration proposals, or just to
 
 <img src="https://raw.githubusercontent.com/zarfalaxd/zarfalaxd/output/snake.svg" alt="Snake animation" />
 
+###
+
 <!---
 [zarfalaxd/zarfalaxd] is a special repository as its `README.md` (this file) appears on your GitHub profile. Feel free to explore my projects and contributions! 😃
