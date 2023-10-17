@@ -9,11 +9,16 @@ I'm Zarfala, the founder of Ext Corp, dedicated to Software, Cheats, Discord, an
 
 I'm passionate about building communities and innovating in Software, Cheats, Discord, and selfbots. My goal is to elevate the experience in these domains, always seeking creative ways to enhance and personalize interactions.
 
+
 ## 🌐 Other Platforms
 
 [![Replit Logo](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@zarfaladev)
 
 Join our Discord community, and let's explore endless possibilities together!
+
+## Languages I Know
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
 ## 📫 Get in Touch
 
