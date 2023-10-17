@@ -18,7 +18,7 @@ Join our Discord community, and let's explore endless possibilities together!
 
 ## Languages I Know
 
-<p align="left"> <a href="https://github.com/zarfalaxd"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/zarfalaxd"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,py,css,html,js,php,cpp,cs,express,bots,nodejs,cloudflare"> </a> </p>
 
 ## 📫 Get in Touch
 
