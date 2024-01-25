@@ -31,8 +31,10 @@ Join our Discord community, and let's explore endless possibilities together! --
 
 You can reach me via:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/zarfala) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@zarfala) 
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zarfala) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@zarfala)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/959935214895890532)
+[![Binance](https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black)](https://www.binance.com/es-ES/activity/referral-entry/CPA?ref=CPA_CPA0J2VM1GW)
 <!-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@zarfaladev) -->
 
 Feel free to contact me with exciting ideas, collaboration proposals, or just to chat. Looking forward to connecting with you!
