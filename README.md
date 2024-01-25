@@ -6,8 +6,8 @@ I'm Zarfala, the founder of Ext Corp, dedicated to Software, Cheats, Discord, an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarfalaxd&layout=donut&theme=chartreuse-dark)
 -->
 <div style="display:flex; justify-content:center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=zarfalaxd&theme=chartreuse-dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarfalaxd&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+  <img height="210.5" src="https://github-readme-stats.vercel.app/api?username=zarfalaxd&theme=chartreuse-dark" />
+  <img height="210.5" src="https://github-readme-stats.vercel.app/api/top-langs?username=zarfalaxd&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </div>
 
 
