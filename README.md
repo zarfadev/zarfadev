@@ -2,8 +2,8 @@
 
 I'm Zarfala, the founder of Ext Corp, dedicated to Software, Cheats, Discord, and selfbots. 🌌
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarfalaxd&show_icons=true&theme=dark&title_color=9A0000&text_color=444&icon_color=4F0000&border_color=4F0000&bg_color=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarfalaxd&layout=compact&theme=dark&title_color=9A0000&text_color=444&icon_color=4F0000&border_color=4F0000&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zarfalaxd&show_icons=true&theme=dark&title_color=9A0000&text_color=444&icon_color=223c1c&border_color=4F0000&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zarfalaxd&layout=compact&theme=dark&title_color=9A0000&text_color=444&icon_color=223c1c&border_color=4F0000&bg_color=000000)
 
 ## 🚀 About Me
 
