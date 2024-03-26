@@ -23,12 +23,9 @@ You can reach me via:
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/959935214895890532)
 [![Binance](https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black)](https://www.binance.com/es-ES/activity/referral-entry/CPA?ref=CPA_CPA0J2VM1GW)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@migueroodriguez)
+[![buymeacoffee](https://img.shields.io/badge/buymeacoffee-%23000000.svg?logo=buymeacoffee&logoColor=white&style=for-the-badge)]([https://www.tiktok.com/@migueroodriguez](https://www.buymeacoffee.com/zarfala))
 
 Feel free to contact me with exciting ideas, collaboration proposals, or just to chat. Looking forward to connecting with you!
-
-Buy coffe
-
-<a href="https://www.buymeacoffee.com/zarfala" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 <!---
 [migueroodriguez/migueroodriguez] is a special repository as its `README.md` (this file) appears on your GitHub profile. Feel free to explore my projects and contributions! 😃
