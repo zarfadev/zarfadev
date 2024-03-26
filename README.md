@@ -26,5 +26,9 @@ You can reach me via:
 
 Feel free to contact me with exciting ideas, collaboration proposals, or just to chat. Looking forward to connecting with you!
 
+If you find this project useful, please consider supporting it by buying me a coffee so that I can dedicate more time to open-source projects like this:
+
+<a href="https://www.buymeacoffee.com/zarfala" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 <!---
 [migueroodriguez/migueroodriguez] is a special repository as its `README.md` (this file) appears on your GitHub profile. Feel free to explore my projects and contributions! 😃
