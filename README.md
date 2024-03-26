@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Miguel, the founder of Ext Corp, dedicated to Software, Cheats, Discord, and selfbots. 🌌
+I'm Miguel, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord, and selfbots. 🌌
 
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=great-gatsby" />
