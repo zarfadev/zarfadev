@@ -3,8 +3,8 @@
 I'm Miguel, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord, and selfbots. 🌌
 
 <div style="display:flex; justify-content:center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=shadow_red" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueroodriguez&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=great-gatsby" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueroodriguez&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
 </div>
 
 ## 🚀 About Me
@@ -20,7 +20,7 @@ I'm passionate about building communities and innovating in Software, Cheats, Di
 
 You can reach me via:
 
-[![Discord](https://img.shields.io/badge/Instagram-e005d8.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/migueroodriguez/)
+[![Instagram](https://img.shields.io/badge/Instagram-e005d8.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/migueroodriguez/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@migueroodriguez)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/959935214895890532)
 [![Binance](https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black)](https://www.binance.com/es-ES/activity/referral-entry/CPA?ref=CPA_CPA0J2VM1GW)
