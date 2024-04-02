@@ -7,6 +7,11 @@ I'm Miguel, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord,
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueroodriguez&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
 </div>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueroodriguez&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ## 🚀 About Me
 
 I'm passionate about building communities and innovating in Software, Cheats, Discord, and selfbots. My goal is to elevate the experience in these domains, always seeking creative ways to enhance and personalize interactions.
