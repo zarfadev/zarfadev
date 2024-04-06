@@ -3,8 +3,8 @@
 I'm Miguel, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord, and selfbots. 🌌
 
 <div style="display:flex; justify-content:center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=great-gatsby" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueroodriguez&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=github_dark" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueroodriguez&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </div>
 
 ## 🚀 About Me
