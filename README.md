@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Miguel, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord, and selfbots. 🌌
+I'm Zarfala, the co-founder of Appsmartt, dedicated to Software, Cheats, Discord, and selfbots. 🌌
 
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=migueroodriguez&theme=github_dark" />
