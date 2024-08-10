@@ -21,7 +21,6 @@ I'm passionate about building communities and innovating in Software, Cheats, Di
 You can reach me via:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/959935214895890532)
-[![Binance](https://img.shields.io/badge/Binance-F0B90B.svg?style=for-the-badge&logo=Binance&logoColor=black)](https://www.binance.com/es-ES/activity/referral-entry/CPA?ref=CPA_CPA0J2VM1GW)
 
 Feel free to contact me with exciting ideas, collaboration proposals, or just to chat. Looking forward to connecting with you!
 
