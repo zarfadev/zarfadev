@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy Miguel Angel Villegas, creador de M&S Creators, especializado en el desarrollo de software y soluciones tecnológicas innovadoras. 🌌
+Soy Miguel Angel Villegas, creador de M&S Creators, especializado en el desarrollo de software y soluciones tecnológicas innovadoras.
 
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=zarfadev&theme=github_dark" />
