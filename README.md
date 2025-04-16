@@ -16,7 +16,7 @@ I'm a passionate developer dedicated to building innovative and high-impact tech
 Here are some of the main technologies and tools I work with:
 
 <p align="left">
-  <a href="https://github.com/zarfadev"><img src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,nodejs,tailwind,bootstrap,mysql,php,linux,github,html,css,js,express,docker,kubernetes,aws,jenkins,python,java,go,git,figma,vscode,graphql,redis,postgres,mongodb,nginx,supabase,vercel,netlify,azure,cloudflare&perline=10"></a>
+  <a href="https://github.com/zarfadev"><img src="https://skillicons.dev/icons?i=angular,ts,react,nextjs,nodejs,tailwind,bootstrap,mysql,php,linux,github,html,css,js,express,docker,kubernetes,aws,jenkins,python,java,go,git,figma,vscode,graphql,redis,postgres,mongodb,nginx,supabase,vercel,netlify,azure,cloudflare"></a>
 </p>
 
 ### 🧰 Additional Tools & Skills
